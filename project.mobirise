@@ -216,7 +216,11 @@
             "image": {
               "class": "mbr-figure__img",
               "src": "@PROJECT_PATH@/assets/images/news-item-2.jpg",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "subtitle2": "<a href=\"http://mobirise.com\">application</a>",
