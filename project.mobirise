@@ -20,7 +20,10 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 13,
-    "versionPublish": "3.10.5"
+    "versionPublish": "3.10.5",
+    "favicon": "@PROJECT_PATH@/assets/images/logo1-1-25dec08-128x128.png",
+    "noImageResize": "",
+    "scrollAnimation": ""
   },
   "pages": {
     "index.html": {
